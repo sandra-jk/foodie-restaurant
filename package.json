@@ -1,0 +1,26 @@
+{
+  "name": "foodie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandra-jk/foodie-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandra-jk/foodie-restaurant/issues"
+  },
+  "homepage": "https://github.com/sandra-jk/foodie-restaurant#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}

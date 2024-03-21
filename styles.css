@@ -6,7 +6,7 @@
 
 .intro-container{
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image:  url(img/bb8682e2-3879-422d-8351-56421d1a1234.webp);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0.5)) ,url(the\ top\ restaurant\ in\ oxford\,\ for\ every\ occasion\,\ in\ the\ style\ of\ mesoamerican\ influences\,\ \,\ tabletop\ photography\,\ saurabh\ jethani\,\ ready-made\,\ diego\ rivera\,\ high-angle.png);
     height: 100vh;
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
@@ -24,7 +24,7 @@
   }
 
 .navbar{
-    width: 80%;
+    width: 100%;
     margin: auto;
     padding: 35px 0;
     display: flex;
